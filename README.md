@@ -1,4 +1,4 @@
-# Elements-of-AI-idea
+# AI idea - check vehicles with drone swarms and AI image recognition
 Creating an idea project for Elements of AI - check vehicles for outside damage via drone swarm
 
 ## Summary
